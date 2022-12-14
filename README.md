@@ -1,7 +1,7 @@
 Hi 👋 My name is Numair Hajyani
 ===============================
 
-Incoming Student at UIUC
+Student at UIUC
 ------------------------
 
 Hey my name is Numair Hajyani, I am currently a Freshmen who is interested in Computer Science and Statical Computing. I am from Dallas,Texas. Throughout High School and my first Semester here, I have been involved in Cybersecurity and Competitive Programming clubs. Last year, I was an apprentice for Unqork, which is a New York based company that focuses on creating an No-Code Platform, software as a service. During my free time, I like to play basketball, cybersecurity competition, and spend time with my family and friends.
